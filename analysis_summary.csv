@@ -1,0 +1,10 @@
+Metric,Value,Unit
+Customers,1200,
+Overall churn rate,15.75,%
+Model accuracy,68.67,%
+Model precision,28.83,%
+Model recall,68.09,%
+Model ROC-AUC,0.744,
+Highest churn plan,Basic,16.92%
+Lowest satisfaction band,1-2,32.81% churn
+Highest inactivity band,91-180,33.80% churn
